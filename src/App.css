@@ -1,0 +1,11 @@
+.ContainerDiv{
+	margin: 20px;
+	padding: 20px;
+	box-sizing: border-box;
+	width: 200px;
+	border: 1px solid brown;
+}
+
+.PTAG{
+	border: 1px solid green;
+}
